@@ -6,7 +6,7 @@
 title: HK's Doodle blog
 email: gmlrud9001@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+url: '' # the base hostname & protocol for your site
 
 
 #
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: sniper_PARK.jpg
-  job: "master degree"
-  bio: "I love donghwa."
+  name: HK's Doodle
+  avatar: HKPARK.jpg
+  job: "Data Scientist"
+  bio: "Master of Statistics"
   email: gmlrud9001@gmail.com
   disqus-shortname:
   twitter: #username
