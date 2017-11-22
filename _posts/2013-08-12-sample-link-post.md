@@ -2,7 +2,7 @@
 layout: post
 title: "Sample Link Post"
 excerpt: "Try click on the link icon."
-categories: [link post]
+categories: [Deep Learning Basic with Kerass]
 link: http://renyuanz.github.io
 share: true
 ---
