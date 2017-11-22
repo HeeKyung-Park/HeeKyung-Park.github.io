@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Korea
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Leonids
-  avatar: leonids-logo.png
+  avatar: sniper_PARK.jpg
   job: "master degree"
   bio: "I love donghwa."
   email: gmlrud9001@gmail.com
