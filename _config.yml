@@ -1,70 +1,62 @@
-#
-###################################
-# Site wide configuration
-####################################
-#
-title: HK's Doodle blog
-email: gmlrud9001@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: '' # the base hostname & protocol for your site
+# Site Info
+title: HK's Doodle 
+tagline: 'An Amateur Data Scientist '
+description: 'A Blog for Data Scientist'
+baseurl: ""
+url: http://HeeKyung-Park.github.io
+logo: '/public/logo.png'
 
-
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          Asia/Seoul
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
-
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
 
-#
-###################################
-# Site Owner configuration
-####################################
-#
-owner:
-  name: HK's Doodle
-  avatar: HKPARK.jpg
-  job: "Data Scientist"
-  bio: "Master of Statistics"
-  email: gmlrud9001@gmail.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: HeeKyung-Park
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: heekyung-park-643002152
-  skype: #username
-  xing: #username
-  instagram: hee__kyung
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  500px: #username
-  codepen: #username
-  reddit: #username
+version: 1.0.0
+
+# About/contact
+author:
+  name: HeeKyung-Park
+  description: A passionate <strong>Data Scientist</strong>, learning to be a giant.
+  # gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/heekyung-park-643002152/
+    github:    https://github.com/HeeKyung-Park
+    # facebook:  <hide>
+    # twitter:   https://twitter.com/Li_Zhihao
+    # weibo:     http://weibo.com/41173780
+    # email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/we_will_be_giants_by_yalestewart.jpg
+  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+
