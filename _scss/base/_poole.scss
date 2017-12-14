@@ -240,17 +240,17 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #FFF;
+  /* border: 1px solid #FFF; */
   border-collapse: collapse;
 }
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #FFF;
+  border: 1px solid #FFF; 
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #FFF;
+  /* background-color: #FFF; */
 }
 
 
