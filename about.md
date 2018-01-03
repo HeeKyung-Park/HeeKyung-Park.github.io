@@ -8,14 +8,27 @@ title: About
 
 A <span style="color:#6a9fb5; font-weight:bold;">Data scientist</span> that is passionate about Data Analysis.
 
-A quick-learning, adaptable individual seeking to contribute strong analytical skills, self-motivated data scientist who has extensive experience of several fields.
+A passionate, adaptable individual seeking to contribute strong analytical skills, self-motivated data scientist who is learning to be a giant.
 
 * Statistics & Data Analysis
 * Machine Learning
 * Deep Learning
 * R & Python 
 
-<br />
+<br/>
+
+### <strong>Education</strong>
+<hr color="#6a9fb5" size="7">
+
+<b>Master of Science, Statistics</b> <br /> 
+University of Inha @ Incheon, Korea, 2016/03 - 2018/02 <br /> 
+<span style="color:#6a9fb5">Causal Inference for Survival Analysis and Black-Box Model.</span>
+
+<b>Bachelor of Science, Statistics </b> <br />
+<b>Bachelor of Industrial Engineering, Statistics </b> <br />
+University of Inha @ Incheon, Korea, 2012/03 - 2016/02 <br />
+
+<br/>
 
 ### <strong>Experiment</strong>
 <hr color="#6a9fb5" size="7">
@@ -28,26 +41,7 @@ A quick-learning, adaptable individual seeking to contribute strong analytical s
 <b> Researcher </b>, 2016/01 - 2017/03  <br />
 -- Data Analysis, Genome Analysis <br />
 
-<br />
-
-
-### <strong>Publication</strong>
-<hr color="#6a9fb5" size="7">
-
-
-<br />
-
-### <strong>Education</strong>
-<hr color="#6a9fb5" size="7">
-
-<b>Master of Science, Statistics</b> <br /> 
-University of Inha @ Incheon, Korea, 2016/03 - 2018/02 <br /> 
-
-<b>Bachelor of Science, Statistics </b> <br />
-University of Inha @ Incheon, Korea, 2012/03 - 2016/02 <br />
-
-
-<br />
+<br/>
 
 ### <strong>Additional Skills</strong>
 <hr color="#6a9fb5" size="7">
