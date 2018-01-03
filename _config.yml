@@ -4,7 +4,7 @@ tagline: 'An Amateur Data Scientist '
 description: 'A Blog for Data Scientist'
 baseurl: ""
 url: http://HeeKyung-Park.github.io
-logo: '/public/HKDoodle.png'
+logo: '/public/HKDoodle.JPG'
 
 # Site configurations
 gems:
