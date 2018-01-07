@@ -53,7 +53,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/robot.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+  caption: Original Artwork &copy; <a href='https://kr.123rf.com/profile_czarnybez'>czarnybez / 123RF 스톡 콘텐츠</a>
 
 # Puglins
 mathjax: true # whether support mathjax
