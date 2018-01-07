@@ -6,9 +6,7 @@ title: About
 ### <strong>Professional Summary</strong>
 <hr color="#6a9fb5" size="7"> 
 
-A <span style="color:#6a9fb5; font-weight:bold;">Data scientist</span> that is passionate about Data Analysis.
-
-A passionate, adaptable individual seeking to contribute strong analytical skills, self-motivated data scientist who is learning to be a giant.
+A <span style="color:#6a9fb5; font-weight:bold;">Data scientist</span> who is learning to be a giant..
 
 * Statistics & Data Analysis
 * Machine Learning
