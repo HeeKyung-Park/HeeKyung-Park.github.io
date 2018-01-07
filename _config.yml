@@ -43,6 +43,10 @@ nav:
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
+  Deep learning :
+    - 'DL'
+    - { Contents: 'DL/contents/'}
+    - { Tags: 'DL/tags/'}
   About:          
     - '/about/'
 
@@ -50,6 +54,7 @@ nav:
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
+contents_page: 'DL/contents/'
 
 hero:
   image: /public/robot.jpg
