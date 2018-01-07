@@ -44,9 +44,9 @@ nav:
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
   Deep learning :
-    - 'DL'
-    - { Contents: 'DL/contents/'}
-    - { Tags: 'DL/tags/'}
+    - '/DL/'
+    - { Contents: '/DL/contents/'}
+    - { Tags: '/DL/tags/'}
   About:          
     - '/about/'
 
