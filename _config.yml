@@ -54,11 +54,11 @@ nav:
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
-contents_page: 'DL/contents/'
+contents_page: '/DL/contents/'
 
 hero:
   image: /public/robot.jpg
-  caption: Original Artwork &copy; <a href='https://kr.123rf.com/profile_czarnybez'>czarnybez / 123RF 스톡 콘텐츠</a>
+  caption: Original Artwork &copy; <a href='https://kr.123rf.com/profile_czarnybez'>czarnybez / 123RF</a>
 
 # Puglins
 mathjax: true # whether support mathjax
