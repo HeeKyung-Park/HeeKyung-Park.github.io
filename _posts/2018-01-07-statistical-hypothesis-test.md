@@ -2,6 +2,7 @@
 layout: post
 title: Statistical hypothesis test(통계적 가설·검정)
 categories : [Statistics]
+comments: true
 tags : 
 - Basic Statistics
 ---

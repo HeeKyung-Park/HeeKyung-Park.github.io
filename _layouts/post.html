@@ -52,3 +52,7 @@ var disqus_config = function () {
 {% endif %}
 
 <div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="100%" data-numposts="5"></div>
+
+{% include disqus.html %}
+
+{% if page.comments %} • <a href="https://xho95.github.io{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}
