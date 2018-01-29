@@ -23,7 +23,7 @@ University of Inha @ Incheon, Korea, 2016/03 - 2018/02 <br />
 <span style="color:#6a9fb5">Causal Inference for Survival Analysis and Black-Box Model.</span>
 
 <b>Bachelor of Science, Statistics </b> <br />
-<b>Bachelor of Industrial Engineering, Statistics </b> <br />
+<b>Bachelor of Science, Industrial Engineering </b> <br />
 University of Inha @ Incheon, Korea, 2012/03 - 2016/02 <br />
 
 <br/>
